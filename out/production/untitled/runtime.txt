@@ -1,0 +1,52 @@
+1)
+bubbleSort[
+    array[10] => 0.0004s
+    array[100] => 0.0038s
+    array[1000] => 0.0268s
+    array[10000] => 0.3461s
+    array[100000] => 18.8655s
+]
+
+insertionSort[
+    array[10] => 0.0002s
+    array[100] => 0.0012s
+    array[1000] => 0.0177s
+    array[10000] => 0.1078s
+    array[100000] => 3.3830s
+]
+
+selectionSort[
+    array[10] => 0.0002s
+    array[100] => 0.0015s
+    array[1000] => 0.0132s
+    array[10000] => 0.1687s
+    array[100000] => 4.4955s
+]
+
+mergeSort[
+    array[10] => 0.0002s
+    array[100] => 0.0010s
+    array[1000] => 0.0171s
+    array[10000] => 0.1142s
+    array[100000] => 0.4987s
+]
+
+heapSort[
+    array[10] => 0.0002s
+    array[100] => 0.0012s
+    array[1000] => 0.0104s
+    array[10000] => 0.1198s
+    array[100000] => 0.5756s
+]
+
+quickSort[
+    array[10] => 0.0002s
+    array[100] => 0.0023s
+    array[1000] => 0.0153s
+    array[10000] => 0.0767s
+    array[100000] => 0.4629s
+]
+
+
+
+
